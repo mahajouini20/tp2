@@ -1,0 +1,3 @@
+Tunis,120,Tablette
+Sfax,80,Clavier
+Sousse,200,Ecran

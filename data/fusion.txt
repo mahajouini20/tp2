@@ -1,0 +1,5 @@
+Tunis,120,Tablette
+Sfax,80,Clavier
+Sousse,200,Ecran
+Monastir,150,Souris
+Gabes,90,Casque
